@@ -9,10 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7f3e289-9230-47e7-9d71-f725532eb384" name="Changes" comment="pa01 보도블럭 풀이">
-      <change afterPath="$PROJECT_DIR$/LAB/pa02_parking.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructure.iml" afterDir="false" />
+    <list default="true" id="e7f3e289-9230-47e7-9d71-f725532eb384" name="Changes" comment="pa01 parking 풀이">
+      <change afterPath="$PROJECT_DIR$/LAB/pa03_polyAdd.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB/pa04_parking.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     "C/C++ File.pa01_block.cpp.executor": "Run",
     "C/C++ File.pa01_block_v2.cpp.executor": "Run",
     "C/C++ File.pa02_parking.cpp.executor": "Run",
+    "C/C++ File.pa03_polyAdd.cpp.executor": "Run",
     "C/C++ File.pa04_parking.cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,13 +67,7 @@
       <recent name="$PROJECT_DIR$/LAB" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.pa04_parking.cpp">
-    <configuration name="dd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="dd.cpp" CONFIG_NAME="dd.cpp">
-      <option name="sourceFile" value="LAB/dd.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.pa03_polyAdd.cpp">
     <configuration name="pa01_block.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="pa01_block.cpp" CONFIG_NAME="pa01_block.cpp">
       <option name="sourceFile" value="LAB/pa01_block.cpp" />
       <method v="2">
@@ -91,6 +86,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pa03_polyAdd.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="pa03_polyAdd.cpp" CONFIG_NAME="pa03_polyAdd.cpp">
+      <option name="sourceFile" value="LAB/pa03_polyAdd.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pa04_parking.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="pa04_parking.cpp" CONFIG_NAME="pa04_parking.cpp">
       <option name="sourceFile" value="LAB/pa04_parking.cpp" />
       <method v="2">
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.pa03_polyAdd.cpp" />
         <item itemvalue="C/C++ File.pa04_parking.cpp" />
         <item itemvalue="C/C++ File.pa02_parking.cpp" />
         <item itemvalue="C/C++ File.pa01_block.cpp" />
         <item itemvalue="C/C++ File.pa01_block_v2.cpp" />
-        <item itemvalue="C/C++ File.dd.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +125,7 @@
       <workItem from="1726733691558" duration="5614000" />
       <workItem from="1726768198784" duration="5984000" />
       <workItem from="1726988796436" duration="171000" />
+      <workItem from="1727282763162" duration="3340000" />
     </task>
     <task id="LOCAL-00001" summary="pa01 보도블럭 풀이">
       <option name="closed" value="true" />
@@ -133,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726381180087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pa01 parking 풀이">
+      <option name="closed" value="true" />
+      <created>1727282811574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727282811574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pa01 보도블럭 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="pa01 보도블럭 풀이" />
+    <MESSAGE value="pa01 parking 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="pa01 parking 풀이" />
   </component>
 </project>
